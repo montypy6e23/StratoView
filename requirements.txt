@@ -1,4 +1,7 @@
-streamlit
+streamlit>=1.37.0
 requests
 pandas
-pydeck
+streamlit-autorefresh
+folium
+streamlit-folium
+numpy
